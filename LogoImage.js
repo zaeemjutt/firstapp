@@ -141,7 +141,6 @@ AntDesign: {
   padding: 7,
 },
 loginBtn: {
-  text: "#ffff",
   width: "50%",
   borderRadius: 25,
   height: 50,
